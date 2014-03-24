@@ -8,6 +8,7 @@
     <packaging>jar</packaging>
     <version>0.1.0</version>
     <name>symphony</name>
+    <description>A distributed resource schedule system.</description>
     <url>http://maven.apache.org</url>
 
     <dependencies>
